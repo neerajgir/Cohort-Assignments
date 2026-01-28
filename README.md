@@ -2,7 +2,7 @@
 
 A clean and professional HTML-based resume website showcasing a Full Stack Developer's skills, experience, and projects.
 
-# Live Demo: neeraj-resume.netlify.app
+#Check out the live demo: [here](https://neeraj-resume.netlify.app/)
 
 ## Table of Contents
 
